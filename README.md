@@ -18,4 +18,4 @@
  - Кофе
  - Мой кот Шмыга 
 
-![me](img\IMG_20220919_160302.jpg)
+![me](https://github.com/ElenaBorgo/Homework-part2-3/blob/main/img/IMG_20220919_160302.jpg)
